@@ -11,7 +11,7 @@
 
 ### COOKIE_EXPIRES= 
 
-### SMPT_HOST= (Used etheral ) Link == https://ethereal.email/
+### SMPT_HOST= (Used ethereal ) Link == https://ethereal.email/
 
 ### SMPT_PORT=
 
